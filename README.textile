@@ -145,7 +145,7 @@ css.layout=reset
 
 h3. <a id="using-tags">Using tags</a>
 
-p. Now that your have understand how to configured the plugin and file dependencies, it's time to see how GreenScript can simplify your life of dealing with javascript/css in your play template files.
+p. Now that your have understand how to configured the plugin and file dependencies, it's time to see how GreenScript can simplify your life of dealing with javascript/css in your play template files. Hope you will enjoy it and have awesome experience.
 
 h4. <a>The base template: main.html</a>
 
